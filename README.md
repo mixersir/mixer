@@ -1,2 +1,2 @@
 # mixer
-just a random guy trying to learn how to code.
+so um cara aleatorio tentando aprender a programar.
